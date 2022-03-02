@@ -1,4 +1,4 @@
-MAX_HEALTH = 1000
+MAX_HEALTH = 2000
 
 
 class Character(object):
